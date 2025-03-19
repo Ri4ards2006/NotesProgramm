@@ -56,7 +56,7 @@ This project is a lightweight notes application designed for desktop use, develo
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/notes-app.git
+   git clone https://github.com/Ri4ards2006/NotesProgramm.git
    ```
 
 2. **Navigate to the Project Directory:**
